@@ -1,8 +1,8 @@
 # Smarty-Plug
-* Smarty Plug is an IoT-integrated smart extension cord powered by [ATmega328](https://github.com/Sahanmin/Smarty-Plug/blob/main/Data%20sheets/ATMEGA328.PDF) & [ESP8266](https://github.com/LasithaAmarasinghe/Smarty-Plug/blob/main/Data%20sheets/ESP8266.PDF).
+* Smarty Plug is an IoT-integrated smart extension cord powered by [ATmega328](https://github.com/Sahanmin/Smarty-Plug/blob/main/Data%20sheets/ATMEGA328.PDF) & [ESP8266](https://github.com/Sahanmin/Smarty-Plug/blob/main/Data%20sheets/ESP8266.PDF).
 * This is developed for the semester 2 project under EN 1190: Engineering Design Project.
   
-![20230805_180307](https://github.com/LasithaAmarasinghe/Smarty-Plug/assets/106037441/18de8a2d-b9eb-4888-816d-3e4946caaf79)
+![20230805_180307](https://github.com/Sahanmin/Smarty-Plug/assets/106037441/18de8a2d-b9eb-4888-816d-3e4946caaf79)
 
 ## Features
  
