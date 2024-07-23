@@ -6,10 +6,10 @@
 
 ## Features
  
-* [Voice Controlling](https://github.com/LasithaAmarasinghe/Smarty-Plug/blob/main/Voice%20Control.mp4) - supports Google Assistant and Amazon Alexa
-* [Controlling by Mobile Phone](https://github.com/LasithaAmarasinghe/Smarty-Plug/blob/main/Remote%20control%2C%20Google%20home.mp4) - using Google Home 
-* [USB Adaptive Charging](https://github.com/LasithaAmarasinghe/Smarty-Plug/blob/main/USB%20charging.mp4)
-* [Controlling by Remote Controller](https://github.com/LasithaAmarasinghe/Smarty-Plug/blob/main/Remote%20control%2C%20Google%20home.mp4)
+* [Voice Controlling](https://github.com/Sahanmin/Smarty-Plug/blob/main/Voice%20Control.mp4) - supports Google Assistant and Amazon Alexa
+* [Controlling by Mobile Phone](https://github.com/Sahanmin/Smarty-Plug/blob/main/Remote%20control%2C%20Google%20home.mp4) - using Google Home 
+* [USB Adaptive Charging](https://github.com/Sahanmin/Smarty-Plug/blob/main/USB%20charging.mp4)
+* [Controlling by Remote Controller](https://github.com/Sahanmin/Smarty-Plug/blob/main/Remote%20control%2C%20Google%20home.mp4)
 * Scheduling - by connecting to Google Calendar
 
 ## What made us select this as our project?
@@ -34,8 +34,8 @@
 
 ## Hardware Specifications
 
-* [ESP8266](https://github.com/LasithaAmarasinghe/Smarty-Plug/blob/main/Data%20sheets/ESP8266.PDF)
-* [ATmega328](https://github.com/LasithaAmarasinghe/Smarty-Plug/blob/main/Data%20sheets/ATMEGA328.PDF)
+* [ESP8266](https://github.com/Sahanmin/Smarty-Plug/blob/main/Data%20sheets/ESP8266.PDF)
+* [ATmega328](https://github.com/Sahanmin/Smarty-Plug/blob/main/Data%20sheets/ATMEGA328.PDF)
 * USB Ports
 * Relays
 * Push Button Switches
@@ -74,4 +74,4 @@
  
  * This project is licensed under the MIT License. See the [LICENSE](MIT-LICENSE.txt) file for details.
 
-## For More Information - [Project Report](https://github.com/LasithaAmarasinghe/Smarty-Plug/blob/main/Project%20Report.pdf)
+## For More Information - [Project Report](https://github.com/Sahanmin/Smarty-Plug/blob/main/Project%20Report.pdf)
